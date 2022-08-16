@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "79464157766",
+    "project_id": "scoial-app-52dd3",
+    "storage_bucket": "scoial-app-52dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79464157766:android:f32d2bcd60c5eef5a73047",
+        "android_client_info": {
+          "package_name": "com.example.scoial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79464157766-ht5el64v2igoeah7jnvptqpvjj33o8fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWhmFmFoT1cS-Atrgx-4Gbz8ZOqyHcJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79464157766-ht5el64v2igoeah7jnvptqpvjj33o8fj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79464157766-4o3g2gi729il0la8f4tvg7t65tavfbkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scoialAppp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
